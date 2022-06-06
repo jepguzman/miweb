@@ -1,12 +1,14 @@
 <script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue'
-import BlogContenidos from './components/BlogContenidos.vue';
+import router from './router';
 </script>
 
 <template>
-  <BlogContenidos />
+  <nav>
+    <router-link to="/">Home</router-link>&nbsp;| 
+    <router-link to="/Login">Admin</router-link>&nbsp;| 
+    <router-link to="/about">Acerca de</router-link>    
+  </nav>
+  <router-view />  
 </template>
 
 <style>
