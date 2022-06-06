@@ -1,0 +1,72 @@
+[
+    {
+      "id": "22",
+      "titulo": "Examen de Ingreso",
+      "tcolor": "text-info",
+      "ticono": "fa fa-folder",
+      "contenido": "<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center;\"><img src=\"https://cbtis169.net/media/ingreso.jpg\" class=\"img-fluid\"></p>",
+      "editor": "Administrador",
+      "categoria": "Noticias",
+      "display": "1",
+      "updated": "2022-05-27 10:51:54",
+      "created": "2022-05-27 10:11:04",
+      "posted": "2022-05-27 10:59:42",
+      "deleted": "0"
+    },
+    {
+      "id": "21",
+      "titulo": "Guía de Estudios",
+      "tcolor": "text-warning",
+      "ticono": "fa fa-folder",
+      "contenido": "<img src=\"https://cbtis169.net/media/GUIA.png\"/><br><br>\r\n<a class=\"btn btn-success link\" target=\"_blank\" href=\"https://cbtis169.net/media/GUIA-2022.pdf\">\r\nDescárgala aquí\r\n</a>",
+      "editor": "Administrador",
+      "categoria": "Noticias",
+      "display": "1",
+      "updated": "2022-04-07 14:35:24",
+      "created": "2022-04-07 14:35:24",
+      "posted": "2022-04-07 14:35:24",
+      "deleted": "0"
+    },
+    {
+      "id": "20",
+      "titulo": "Entrega de Fichas 2022",
+      "tcolor": "text-primary",
+      "ticono": "fa fa-calendar",
+      "contenido": "<img src=\"https://cbtis169.net/media/triptico1.jpeg\" width=\"75%\" />",
+      "editor": "Administrador",
+      "categoria": "Noticias",
+      "display": "1",
+      "updated": "2022-04-07 14:16:09",
+      "created": "2022-04-07 14:16:09",
+      "posted": "2022-04-07 14:16:09",
+      "deleted": "0"
+    },
+    {
+      "id": "19",
+      "titulo": "Entrega de Fichas 2022",
+      "tcolor": "text-primary",
+      "ticono": "fa fa-calendar",
+      "contenido": "<img src=\"https://cbtis169.net/media/triptico2.jpeg\" width=\"75%\" />",
+      "editor": "Administrador",
+      "categoria": "Noticias",
+      "display": "1",
+      "updated": "2022-04-07 14:16:09",
+      "created": "2022-04-07 14:16:09",
+      "posted": "2022-04-07 14:16:09",
+      "deleted": "0"
+    },
+    {
+      "id": "1",
+      "titulo": "in memoriam",
+      "tcolor": "text-info",
+      "ticono": "fa fa-heart",
+      "contenido": "<p class=\"MsoNormal\" align=\"center\" style=\"text-align: center;\"><img src=\"https://cbtis169.net/media/ingMancilla.jpeg\" class=\"img-fluid\"></p>",
+      "editor": "Administrador",
+      "categoria": "Noticias",
+      "display": "1",
+      "updated": "2021-01-18 19:51:54",
+      "created": "2021-01-18 19:11:04",
+      "posted": "2022-01-10 19:59:42",
+      "deleted": "0"
+    }
+  ]
